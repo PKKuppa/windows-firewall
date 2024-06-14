@@ -3,6 +3,7 @@
     - IP Filtering
     - Port Filtering
     - Protocol Filtering
+    - MAC Address
 - UI for Application
 - Logging
 - Alerts
@@ -20,3 +21,4 @@
 - Windows Firewall: https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/
 
 Paper on Implenting Firewall: http://paper.ijcsns.org/07_book/202104/20210424.pdf
+Github Repo with basic 
