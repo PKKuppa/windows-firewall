@@ -1,7 +1,8 @@
 # Possible Features
-- IP Filtering
-- Port Filtering
-- Protocol Filtering
+- Packet Filtering
+    - IP Filtering
+    - Port Filtering
+    - Protocol Filtering
 - UI for Application
 - Logging
 - Alerts
@@ -17,3 +18,5 @@
 - WinAPI
 - Windows Filtering Platform: https://learn.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page
 - Windows Firewall: https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/
+
+Paper on Implenting Firewall: http://paper.ijcsns.org/07_book/202104/20210424.pdf
