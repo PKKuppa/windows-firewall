@@ -1,0 +1,19 @@
+# Possible Features
+- IP Filtering
+- Port Filtering
+- Protocol Filtering
+- UI for Application
+- Logging
+- Alerts
+- Windows Service to run in background
+- What language C/C++/C#?
+
+# RoadMap
+1. Decide on Features
+2. Decide on Language and Structure
+3. 
+
+# Resources
+- WinAPI
+- Windows Filtering Platform: https://learn.microsoft.com/en-us/windows/win32/fwp/windows-filtering-platform-start-page
+- Windows Firewall: https://learn.microsoft.com/en-us/windows/security/operating-system-security/network-security/windows-firewall/
